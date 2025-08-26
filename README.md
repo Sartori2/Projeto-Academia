@@ -26,10 +26,10 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
   - Objetivo: Seu objetivo é otimizar a gestão de seus alunos e reduzir o tempo gasto com a criação de treinos, para que possa ajudar pessoas a alcançar resultados de forma mais eficiente.
 
 - Persona Secundária: aluno
- - Nome: Renan Sartori
- - Idade: 20 Anos
- - Profissão: Estudante Universitário
- - Objetivo: Ter uma rotina de treino organizada e acessível, com uma forma rápida de se comunicar com o personal trainer para tirar dúvidas e receber orientações.
+  - Nome: Renan Sartori
+  - Idade: 20 Anos
+  - Profissão: Estudante Universitário
+  - Objetivo: Ter uma rotina de treino organizada e acessível, com uma forma rápida de se comunicar com o personal trainer para tirar dúvidas e receber orientações.
 
 
 ### Mapa de empatia
@@ -89,5 +89,6 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
