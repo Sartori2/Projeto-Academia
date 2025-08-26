@@ -37,19 +37,24 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 ![Mapa de empatia](empatia.png)
 
 - Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
-  O que ele vê: Vê pessoas com corpos "perfeitos" nas redes sociais, vê academias cheias. Vê a ficha de treino de papel, muitas vezes bagunçada ou perdida.
-  O que ele ouve: Ouve a música alta da academia, o barulho dos pesos. Ouve amigos que desistem da academia, e ouve o personal dando pouca atenção.
-  O que ele diz e faz: Diz "Não sei se estou fazendo certo" e "Acho que não estou evoluindo". Ele se sente perdido, às vezes faz os exercícios de forma errada por falta de orientação.
-  O que ele pensa e sente: Pensa "Como vou me organizar com a faculdade e a academia?" e "Será que esse treino é para mim?". Sente ansiedade, insegurança e falta de motivação.
-  Dores: Não sabe se está executando os exercícios corretamente, sente-se desmotivado pela falta de progresso visível, tem dificuldades para se organizar, e a comunicação com o personal é limitada.
-  Ganhos: Ter a ficha de treino sempre acessível, poder tirar dúvidas rapidamente, receber motivação do personal pelo app, e ver o próprio progresso, o que o faz sentir-se mais confiante.
+- Renan Sartori (Persona primária)
+  - O que ele vê: Vê pessoas com corpos "perfeitos" nas redes sociais, vê academias cheias. Vê a ficha de treino de papel, muitas vezes bagunçada ou perdida.
+  - O que ele ouve: Ouve conversas dos seus amigos progredindo cada vez mais na academia enquanto o personal dá pouca atenção.
+  - O que ele diz e faz: Diz "Não sei se estou fazendo certo" e "Acho que não estou evoluindo". Ele se sente perdido, às vezes faz os exercícios de forma errada por falta de orientação.
+  - O que ele pensa e sente: Pensa "Como vou me organizar com a faculdade e a academia?" e "Será que esse treino é para mim?". Sente ansiedade, insegurança e falta de motivação.
+  - Dores: Não sabe se está executando os exercícios corretamente, sente-se desmotivado pela falta de progresso visível, tem dificuldades para se organizar, e a comunicação com o personal é limitada.
+  - Ganhos: Ter a ficha de treino sempre acessível, poder tirar dúvidas rapidamente, receber motivação do personal pelo app, e ver o próprio progresso, o que o faz sentir-se mais confiante.
 
 ## Contexto de uso
 
 - Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
+  - O aplicativo será utilizado principalmente em academias e centros de treinamento físico, onde o aluno está ativamente treinando e o personal está orientando. No entanto, o aplicativo também pode ser acessado em casa ou em qualquer lugar para consulta do treino, envio de mensagens ou análise do progresso.
 - Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
+  - Socialmente, o ambiente de academia promove a interação, mas o foco é individual. Economicamente, o aplicativo deve se encaixar no modelo de negócio da academia (assinatura, mensalidade). Culturalmente, o aumento da busca por saúde, bem-estar e o uso de tecnologia na vida diária são fatores importantes.
 - Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
+   - O aplicativo pode se beneficiar de informações como a localização (para confirmar que o usuário está na academia), e futuramente, pode interagir com o ambiente (por exemplo, ao se conectar com equipamentos que fornecem dados sobre o treino).
 - O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+   - Quando o usuário interage com o app, o ambiente está barulhento, agitado e o aluno pode estar com as mãos suadas. O design da interface deve levar isso em conta, com botões grandes e de fácil acesso.
 
 ## Jornada do usuário
 - Início: O aluno faz o cadastro no aplicativo e recebe o treino personalizado que foi montado pelo personal trainer.
@@ -88,6 +93,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
