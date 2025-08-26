@@ -1,35 +1,36 @@
-# **Tema escolhido:** Nome da aplicação ou produto
+# **Tema escolhido:** Aplicativo de Gestão de Treinos para Academias
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
 ## Componentes do Grupo
 
-- Nome Componente 1
-- Nome Componente 2
-- Nome Componente 3
+- Rafael Almeida Ferreira    RA: 24.224.013-3
+- Renan Sartori Evangelista  RA: 24.224.004-2
 
 ## Resumo
 
-Apresente uma breve descrição da sua aplicação ou produto.
+Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o aluno e o personal trainer. Ele oferece um sistema inovador onde o personal consegue montar treinos personalizados para cada tipo de aluno e acompanhar o progresso de cada um deles. O objetivo é melhorar a experiência do aluno, simplificando a rotina de treino.
 
 ## Introdução
 
-- Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária.
-- Em uma única frase, resuma o objetivo do serviço ou poduto.
-- Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
+- Atualmente, nas redes de academia, profissionais e alunos ainda enfrentam métodos antigos e muito utilizados, como o uso de planilhas ou papel para montar um simples treino, o que causa desorganização e falta de acompanhamento. Nosso aplicativo tem uma solução para esse problema, criando uma comunicação e um monitoramento em uma única plataforma.
+- O objetivo do nosso aplicativo é criar uma conexão digital fluida e personalizada entre profissionais e alunos.
+- A experiência do usuário deve ser intuitiva e fluida, permitindo que o personal trainer otimize seu tempo e o aluno se sinta confiante e motivado.
 
-## Publico Alvo
+## Publico Alvo ( Personas )
 
-- Determine o seu público alvo:
+- Persona Primaria: Personal Trainer
+  - Nome: Renato Cariani
+  - Idade: 49 Anos
+  - Profissão: Personal Trainer
+  - Objetivo: Seu objetivo é otimizar a gestão de seus alunos e reduzir o tempo gasto com a criação de treinos, para que possa ajudar pessoas a alcançar resultados de forma mais eficiente.
 
-### Personas
+- Persona Secundária: aluno
+ - Nome: Victor Augusto
+ - Idade: 20 Anos
+ - Profissão: Estudante Universitário
+ - Objetivo: Ter uma rotina de treino organizada e acessível, com uma forma rápida de se comunicar com o personal trainer para tirar dúvidas e receber orientações.
 
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
-
-  - Persona primaira ...
-  - Persona secundária ...
-  - Outras personas ...
 
 ### Mapa de empatia
 
@@ -52,11 +53,9 @@ Apresente uma breve descrição da sua aplicação ou produto.
 - O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
 
 ## Jornada do usuário
-
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
+- Início: O aluno faz o cadastro no aplicativo e recebe o treino personalizado que foi montado pelo personal trainer.
+- Desenvolvimento: O aluno segue o treino passo a passo diretamente pelo aplicativo. Para cada exercício, ele tem a opção de anotar as cargas e repetições realizadas. Se tiver qualquer dúvida sobre a execução, pode acessar um vídeo explicativo disponível em cada exercício.
+- Final: Ao concluir a rotina de exercícios, o aplicativo exibe o tempo total de treino, além de registrar o progresso para acompanhamento futuro.
 
 ## Análise de concorrência
 
@@ -90,3 +89,4 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+
