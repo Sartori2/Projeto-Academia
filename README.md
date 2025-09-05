@@ -77,6 +77,29 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
 
 ## Coleta de dados
+  Entrevista - Roteiro
+
+  - Objetivo: Compreender a rotina de treinos e a experiência com ferramentas de gestão para identificar pontos de melhoria e validar as funcionalidades do aplicativo.
+  
+  - Rotina e Motivação: Como é sua rotina de treinos atualmente? O que mais te motiva ou desmotiva a ir para a academia?
+  
+  - Uso de Tecnologia: Você já usou algum aplicativo ou planilha para acompanhar seus treinos? Se sim, o que gostava e o que não gostava neles?
+  
+  - Ficha de Treino: Como você recebe e acompanha sua ficha de treino hoje? Você sente que consegue seguir o plano de forma eficiente?
+  
+  - Comunicação com o Profissional: Qual a sua principal forma de comunicação com seu personal trainer ou professor da academia? Com que frequência vocês se falam?
+  
+  - Registro e Acompanhamento: Você costuma registrar os pesos e as repetições que faz? Por que sim ou por que não?
+  
+  - Vídeos e Demonstrações: Quando você tem dúvidas sobre a execução de um exercício, o que você faz? Você acha que ter vídeos demonstrativos seria útil?
+  
+  - Personalização: Você acha que seu treino atual é realmente personalizado para seus objetivos? Você gostaria de ter mais voz na montagem do seu treino?
+  
+  - Dores e Frustrações: Qual é a sua maior frustração na hora de treinar, seja com a organização, com o acompanhamento ou com a comunicação?
+  
+  - Recursos Essenciais: Na sua opinião, quais são as três funcionalidades mais importantes que um aplicativo de treinos deveria ter?
+  
+  - Feedback Geral: Se você pudesse criar o aplicativo de treinos ideal, como ele seria e o que ele faria por você?
 
 ## Modelo de tarefas
 
@@ -100,6 +123,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
