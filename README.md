@@ -79,7 +79,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 ## Coleta de dados
   Entrevista - Roteiro
 
-  - Objetivo: Compreender a rotina de treinos e a experiência com ferramentas de gestão para identificar pontos de melhoria e validar as funcionalidades do aplicativo.
+  - #Objetivo#: Compreender a rotina de treinos e a experiência com ferramentas de gestão para identificar pontos de melhoria e validar as funcionalidades do aplicativo.
   
   - Rotina e Motivação: Como é sua rotina de treinos atualmente? O que mais te motiva ou desmotiva a ir para a academia?
   
@@ -123,6 +123,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
