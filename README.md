@@ -16,6 +16,10 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 - Atualmente, nas redes de academia, profissionais e alunos ainda enfrentam métodos antigos e muito utilizados, como o uso de planilhas ou papel para montar um simples treino, o que causa desorganização e falta de acompanhamento. Nosso aplicativo tem uma solução para esse problema, criando uma comunicação e um monitoramento em uma única plataforma.
 - O objetivo do nosso aplicativo é criar uma conexão digital fluida e personalizada entre profissionais e alunos.
 - A experiência do usuário deve ser intuitiva e fluida, permitindo que o personal trainer otimize seu tempo e o aluno se sinta confiante e motivado.
+- Para o desenvolvimento deste projeto, foram selecionadas tecnologias modernas e eficientes, que garantem a escalabilidade, a performance e uma experiência de usuário de alta qualidade. As principais ferramentas utilizadas incluem:
+    - HTML, CSS e JavaScript: A base fundamental do desenvolvimento web. O HTML será utilizado para a estruturação das páginas, o CSS para a estilização visual, e o JavaScript para a lógica e interatividade do aplicativo.
+    - ReactJS: A aplicação será construída com ReactJS, um framework JavaScript que permite criar interfaces de usuário dinâmicas e reativas de forma eficiente, facilitando a construção de uma experiência fluida e moderna.
+    - Figma: Para a etapa de design e prototipação, o Figma será a ferramenta principal, facilitando a criação de wireframes e protótipos interativos em média e alta fidelidade, além da colaboração em tempo real entre os membros do grupo.
 
 ## Publico Alvo ( Personas )
 
@@ -123,6 +127,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
