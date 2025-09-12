@@ -35,31 +35,38 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
   - Profissão: Estudante Universitário
   - Objetivo: Ter uma rotina de treino organizada e acessível, com uma forma rápida de se comunicar com o personal trainer para tirar dúvidas e receber orientações.
 
-- Persona Secundária: Aluno não Frequente
+- Persona Secundária: Pessoa sem Frequencia
   - Nome: Guilherme Thomazini
   - Idade: 46 Anos
   - Profissão: Médico
-  - Objetivo: Usar o aplicativo para ter uma guia básica do que fazer na academia, sem a pressão de um acompanhamento intensivo.
+  - Objetivo: Encontrar uma forma de manter a saúde e o bem-estar físico mesmo com a rotina de trabalho exaustiva que impede a ida regular à academia. Ele precisa de um planejamento de exercícios que possa ser feito em casa, em poucos minutos e com o mínimo de equipamento.
 
 ### Mapa de empatia
 
 ![Mapa de empatia](empatia.png)
 
 - Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma secundária.
-- Renan Sartori (Persona primária)
+- Renan Sartori (Persona Primária)
   - O que ele vê: Vê pessoas com corpos "perfeitos" nas redes sociais, vê academias cheias. Vê a ficha de treino de papel, muitas vezes bagunçada ou perdida.
   - O que ele ouve: Ouve conversas dos seus amigos progredindo cada vez mais na academia enquanto o personal dá pouca atenção.
   - O que ele diz e faz: Diz "Não sei se estou fazendo certo" e "Acho que não estou evoluindo". Ele se sente perdido, às vezes faz os exercícios de forma errada por falta de orientação.
   - O que ele pensa e sente: Pensa "Como vou me organizar com a faculdade e a academia?" e "Será que esse treino é para mim?". Sente ansiedade, insegurança e falta de motivação.
   - Dores: Não sabe se está executando os exercícios corretamente, sente-se desmotivado pela falta de progresso visível, tem dificuldades para se organizar, e a comunicação com o personal é limitada.
   - Ganhos: Ter a ficha de treino sempre acessível, poder tirar dúvidas rapidamente, receber motivação do personal pelo app, e ver o próprio progresso, o que o faz sentir-se mais confiante.
-- Renato Cariani (Persona secundária)
+- Renato Cariani (Persona Primária)
   - O que ele vê: Vê alunos com dificuldade para seguir a ficha de treino, planilhas lotadas de informações, outros personais com a agenda cheia. Vê a falta de engajamento dos alunos fora da academia.
   - O que ele ouve: Ouve as reclamações dos alunos sobre a dificuldade de manter a rotina, sobre a falta de tempo. Ouve outros profissionais reclamando da burocracia do trabalho.
   - O que ele diz e faz: Diz "Se organize, que eu te ajudo!" e "O mais importante é a constância". Ele passa horas montando treinos, corrige a postura dos alunos, e tenta motivá-los individualmente.
   - O que ele pensa e sente: Pensa "Como posso gerenciar melhor todos os meus alunos de uma vez?" e "Preciso de mais tempo para focar no atendimento presencial". Sente frustração com a ineficiência do método tradicional e preocupação com a falta de resultados de alguns alunos.
   - Dores: Perda de tempo com tarefas administrativas, dificuldade em acompanhar o progresso de dezenas de alunos, comunicação limitada fora da academia.
   - Ganhos: Ter um sistema centralizado para gerenciar todos os alunos, economizar tempo na criação de treinos, conseguir acompanhar a evolução de cada aluno de forma visual e simples, e ter uma comunicação mais eficaz com eles.
+- Guilherme Thomazini (Persona Secundária)
+  - O que ele vê: Vê a rotina de trabalho exaustiva, com plantões e horários imprevisíveis.
+  - O que ele ouve: Ouve o corpo pedindo descanso e sente as dores causadas pela má postura e falta de exercício.
+  - O que ele diz e faz: Diz: "Não tenho tempo nem para almoçar direito, como vou para a academia?" e "Preciso de algo que se encaixe na minha rotina". Ele faz exercícios esporádicos quando tem um tempo livre (se tem), como alongamentos rápidos ou uma pequena caminhada.
+  - O que ele pensa e sente: Pensa: "Minha saúde está em segundo plano por causa do trabalho" e "Será que existe alguma forma de me exercitar sem ter que ir para a academia?". Sente frustração por não conseguir cuidar de si mesmo.
+  - Dores: Falta de tempo, não ter a possibilidade de ir a uma academia com regularidade.
+  - Ganhos: Exercícios rápidos e eficientes que possam ser feitos em casa ou no intervalo do trabalho, sem a necessidade de equipamentos.
 
 ## Contexto de uso
 
@@ -132,6 +139,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
