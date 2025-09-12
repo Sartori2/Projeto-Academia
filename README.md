@@ -23,20 +23,19 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 
 ## Publico Alvo ( Personas )
 
-- Persona Primaria: Personal Trainer
-  - Nome: Renato Cariani
+- Persona Primaria:
+  - Nome: Renato Cariani (Personal Trainer)
   - Idade: 49 Anos
   - Profissão: Personal Trainer
   - Objetivo: Seu objetivo é otimizar a gestão de seus alunos e reduzir o tempo gasto com a criação de treinos, para que possa ajudar pessoas a alcançar resultados de forma mais eficiente.
 
-  - Aluno:
-  - Nome: Renan Sartori
+  - Nome: Renan Sartori (Aluno)
   - Idade: 20 Anos
   - Profissão: Estudante Universitário
   - Objetivo: Ter uma rotina de treino organizada e acessível, com uma forma rápida de se comunicar com o personal trainer para tirar dúvidas e receber orientações.
 
-- Persona Secundária: Pessoa sem Frequencia
-  - Nome: Guilherme Thomazini
+- Persona Secundária:
+  - Nome: Guilherme Thomazini (Sem Frequencia)
   - Idade: 46 Anos
   - Profissão: Médico
   - Objetivo: Encontrar uma forma de manter a saúde e o bem-estar físico mesmo com a rotina de trabalho exaustiva que impede a ida regular à academia. Ele precisa de um planejamento de exercícios que possa ser feito em casa, em poucos minutos e com o mínimo de equipamento.
@@ -142,6 +141,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
