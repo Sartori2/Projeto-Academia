@@ -116,7 +116,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
   
   - **Feedback Gera**l: Se você pudesse criar o aplicativo de treinos ideal, como ele seria e o que ele faria por você?
 
-  - Preencha o formulário clicando [Aqui](https://docs.google.com/forms/d/e/1FAIpQLSfRSky-jeDr9aHlHcq9EtfBWqBjLnSX1AxTBW_QgFoz2oT80g/viewform?usp=header)
+  - Preencha o formulário clicando [Aqui](https://forms.gle/QxVrAAonHFweDEBw9)
 
     
 ## Modelo de tarefas
@@ -141,6 +141,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
