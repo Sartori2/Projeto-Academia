@@ -92,7 +92,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
 
 ## Coleta de dados
-  Entrevista - Roteiro
+  # Formulário - Roteiro
   
   **Objetivo**: Compreender a rotina de treinos e a experiência com ferramentas de gestão para identificar pontos de melhoria e validar as funcionalidades do aplicativo.
   
@@ -107,6 +107,13 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
   - Com que frequência você se sente motivado e confiante de que está no caminho certo para alcançar seus objetivos de treino?
 
   - Preencha o formulário clicando [Aqui](https://forms.gle/QxVrAAonHFweDEBw9)
+
+  # Entrevista - Roteiro
+  
+    Persona Primária - Personal Trainer 
+    
+  
+
 
 ## Análise Hierárquica de Tarefas
 - 1.1. Acessar o Treino do Dia (Abas: Treinos)
@@ -198,6 +205,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
