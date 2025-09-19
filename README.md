@@ -111,11 +111,11 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
   Entrevista - Roteiro
     Persona Primária - Personal Trainer 
 
-- 1. Como você descreve sua rotina de trabalho e qual é o principal obstáculo que ela impõe ao seu bem-estar físico?
+- Como você descreve sua rotina de trabalho e qual é o principal obstáculo que ela impõe ao seu bem-estar físico?
 
-- 2. Você já tentou fazer exercícios em casa? O que você busca em um treino que pode ser feito em poucos minutos e com o mínimo de equipamento?
+- Você já tentou fazer exercícios em casa? O que você busca em um treino que pode ser feito em poucos minutos e com o mínimo de equipamento?
 
-- 3. O que te ajudaria a manter a consistência e a motivação para se exercitar, mesmo nos dias mais cansativos?
+- O que te ajudaria a manter a consistência e a motivação para se exercitar, mesmo nos dias mais cansativos?
   
 
 
@@ -209,6 +209,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
