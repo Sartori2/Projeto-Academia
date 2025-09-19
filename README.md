@@ -79,9 +79,15 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
    - Quando o usuário interage com o app, o ambiente está barulhento, agitado e o aluno pode estar com as mãos suadas. O design da interface deve levar isso em conta, com botões grandes e de fácil acesso.
 
 ## Jornada do usuário
+(Aluno):
 - Início: O aluno faz o cadastro no aplicativo e recebe o treino personalizado que foi montado pelo personal trainer.
 - Desenvolvimento: O aluno segue o treino passo a passo diretamente pelo aplicativo. Para cada exercício, ele tem a opção de anotar as cargas e repetições realizadas. Se tiver qualquer dúvida sobre a execução, pode acessar um vídeo explicativo disponível em cada exercício.
 - Final: Ao concluir a rotina de exercícios, o aplicativo exibe o tempo total de treino, além de registrar o progresso para acompanhamento futuro.
+  
+(Personal):
+- Início: O personal se cadastra no aplicativo e adiciona seus alunos. Ele começa a montar o primeiro treino para cada um, usando a biblioteca de exercícios ou criando novos.
+- Desenvolvimento: O personal recebe notificações de treinos concluídos pelos alunos. Ele acessa o perfil de cada um para analisar as cargas e o progresso. Além disso, ele usa um chat para tirar dúvidas, enviar mensagens de feedback ou ajustar treinos que precisam de alterações.
+- Final: O personal usa o histórico e as avaliações dos alunos para planejar novos treino a longo prazo. Pode usar os dados de progresso para mostrar o seu trabalho e atrair novos alunos.
 
 ## Análise de concorrência
 
@@ -237,6 +243,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
