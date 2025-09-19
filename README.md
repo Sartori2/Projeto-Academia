@@ -109,15 +109,26 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
   - Preencha o formulário clicando [Aqui](https://forms.gle/QxVrAAonHFweDEBw9)
 
   Entrevista - Roteiro
-    Persona Primária - Personal Trainer 
+# Persona Primária - Personal Trainer 
+- Como você gerencia a rotina de treinos de seus alunos atualmente? Quais são os maiores desafios nesse processo?
 
+- Qual a sua principal forma de comunicação com os alunos fora do ambiente da academia? Você sente que consegue acompanhar o progresso deles de forma eficaz?
+
+- Quais funcionalidades em uma ferramenta digital seriam essenciais para otimizar seu tempo e melhorar a experiência dos seus alunos?
+
+# Persona Primária - Aluno
+- Como você se sente em relação ao seu treino atual? Você sente que ele é personalizado e que realmente está te ajudando a alcançar seus objetivos?
+  
+- Quando você tem dúvidas sobre a execução de um exercício, o que você faz? Você se sente confiante para seguir o treino sozinho?
+  
+- O que faria você se sentir mais conectado e motivado com seu personal trainer e com seu próprio progresso na academia?
+
+# Persona Secundária
 - Como você descreve sua rotina de trabalho e qual é o principal obstáculo que ela impõe ao seu bem-estar físico?
 
 - Você já tentou fazer exercícios em casa? O que você busca em um treino que pode ser feito em poucos minutos e com o mínimo de equipamento?
 
 - O que te ajudaria a manter a consistência e a motivação para se exercitar, mesmo nos dias mais cansativos?
-  
-
 
 ## Análise Hierárquica de Tarefas
 - 1.1. Acessar o Treino do Dia (Abas: Treinos)
@@ -209,6 +220,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
