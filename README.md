@@ -213,9 +213,15 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 ### Prototipação em baixo nível (papel)
 # Persona Primária - Aluno: Homepage
 ![Esquema homepageAluno](PersonaAluno_homepage.jpg)
+
+# Persona Primária - Aluno: Ver treinos
 ![Esquema addTreinoPersonal](PersonaAluno-vertreinos.jpg)
+
+# Persona Primária - Personal: Homepage
 ![Esquema homepageAluno](PersonaPersonal_homepage.jpg)
-![Esquema homepageAluno](PersonaPersonal_addtreinos.jpg)
+
+# Persona Primária - Personal: Adicionar treino
+![Esquema homepageAluno](PersonaPersonal_addtreino.jpg)
 
 #### Avaliação heurística
 
@@ -231,6 +237,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
