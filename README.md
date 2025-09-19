@@ -211,7 +211,10 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
 
 ### Prototipação em baixo nível (papel)
+# Persona Primária - Aluno: Homepage
+
 #### Avaliação heurística
+
 
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
@@ -224,6 +227,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
