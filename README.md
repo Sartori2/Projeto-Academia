@@ -142,6 +142,49 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
     - 1.4.2. Visualizar mensagens ou avisos da academia/personal.
     - 1.4.3. Receber notificações de pagamento.
 
+## GOMS (Goals, Operators, Methods, Selection Rules)
+- GOAL 0: Gerenciar a rotina de treino e acompanhar o progresso.
+    - GOAL 1: Acessar e seguir um treino.
+    - METHOD 1.A: Acessar um treino a partir da aba principal.
+        (SEL. RULE: O usuário está na tela inicial, querendo começar o treino.)
+        - OP. 1.A.1: Tocar na aba "Treinos".
+        - OP. 1.A.2: Tocar no bloco do treino (Ex: "Hipertrofia").
+        - OP. 1.A.3: Tocar no botão "Ver Treinos".
+        - OP. 1.A.4: Ver a lista completa de exercícios do treino.
+    - METHOD 1.B: Acessar um treino a partir de uma notificação.
+        (SEL. RULE: O personal enviou uma notificação de "novo treino" e o usuário está com a tela do celular bloqueada ou em outro aplicativo.)
+        - OP. 1.B.1: Tocar na notificação.
+        - OP. 1.B.2: Verificar se o aplicativo abriu na tela correta.
+        - OP. 1.B.3: Ver a lista completa de exercícios do treino.
+
+- GOAL 2: Registrar o progresso de um exercício.
+    - METHOD 2.A: Registrar após a conclusão de um exercício (durante o treino).
+        (SEL. RULE: O usuário está na tela do exercício e acabou de executar.)
+        - OP. 2.A.1: Ver os campos de entrada para peso e repetições.
+        - OP. 2.A.2: Tocar no campo para mudar o peso.
+        - OP. 2.A.3: Digitar o novo valor dos pesos.
+        - OP. 2.A.4: Tocar no campo para mudar as repetições.
+        - OP. 2.A.5: Digitar o novo valor das repetições.
+        - OP. 2.A.6: Tocar no botão "Salvar".
+        - OP. 2.A.7: Ver a confirmação que salvou o registro.
+    - METHOD 2.B: Registrar após o treino (usando a aba "Pr. Cargas").
+        (SEL. RULE: O usuário não registrou a carga durante o treino e quer fazer isso depois, ou está na tela principal e deseja registrar uma carga rapidamente.)
+        - OP. 2.B.1: Tocar na aba "Pr. Cargas".
+        - OP. 2.B.2: Preencher os campos de peso e repetições.
+        - OP. 2.B.3: Tocar no botão para salvar.
+
+- GOAL 3: Acompanhar o histórico de desempenho.
+    - METHOD 3.A: Visualizar o histórico dentro da aba "Avaliações".
+        (SEL. RULE: O usuário quer analisar sua evolução de forma geral.)
+        - OP. 3.A.1: Tocar na aba "Avaliações".
+        - OP. 3.A.2: Ver a visualização do histórico.
+        - OP. 3.A.3: Examinar o gráfico de evolução de cargas/repetições.
+
+- GOAL 4: Gerenciar informações de pagamento.
+    - METHOD 4.A: Acessar a aba de Faturas.
+        (SEL. RULE: O usuário quer verificar seu status de pagamento ou o próximo vencimento.)
+        - OP. 4.A.1: Tocar na aba "Faturas".
+        - OP. 4.A.2: Ler as informações de vencimento e status da fatura.
 
 ## Modelo de tarefas
 
@@ -165,6 +208,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
