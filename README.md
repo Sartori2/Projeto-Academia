@@ -119,25 +119,25 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
   - Preencha o formulário clicando [Aqui](https://forms.gle/QxVrAAonHFweDEBw9)
 
 ## Análise Hierárquica de Tarefas
-1.1. Acessar o Treino do Dia (Abas: Treinos)
+- 1.1. Acessar o Treino do Dia (Abas: Treinos)
     - 1.1.1. Acessar a aba "Treinos".
     - 1.1.2. Visualizar os blocos de treino (Hipertrofia, Abdomen, Emagrecimento, Mobilidade).
     - 1.1.3. Clicar em "Ver Treinos" para o bloco desejado.
     - 1.1.4. Iniciar o treino
     - 1.1.5. Visualizar o exercício específico (vídeo aula)
 
-1.2. Registrar o Progresso (Abas: Pr. Cargas, Avaliações)
+- 1.2. Registrar o Progresso (Abas: Pr. Cargas, Avaliações)
     - 1.2.1. Acessar a aba "Pr. Cargas".
     - 1.2.2. Inserir o peso e as repetições realizadas.
     - 1.2.3. Salvar o registro de carga.
     - 1.2.4. Acessar a aba "Avaliações".
     - 1.2.5. Visualizar o histórico de avaliações
 
-1.3. Gerenciar o Status do Pagamento (Aba: Faturas)
+- 1.3. Gerenciar o Status do Pagamento (Aba: Faturas)
     - 1.3.1. Acessar a aba "Faturas".
     - 1.3.2. Visualizar o status de pagamento.
 
-1.4. Receber Notificações (Aba: Notificações)
+- 1.4. Receber Notificações (Aba: Notificações)
     - 1.4.1. Acessar a aba "Notificações".
     - 1.4.2. Visualizar mensagens ou avisos da academia/personal.
     - 1.4.3. Receber notificações de pagamento.
@@ -165,6 +165,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
