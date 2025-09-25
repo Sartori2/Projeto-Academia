@@ -141,6 +141,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 - O que te ajudaria a manter a consistência e a motivação para se exercitar, mesmo nos dias mais cansativos?
 
 ## Análise Hierárquica de Tarefas
+![MapaHTA](MapaHTA.png)
 - 1.1. Acessar o Treino do Dia (Abas: Treinos)
     - 1.1.1. Acessar a aba "Treinos".
     - 1.1.2. Visualizar os blocos de treino (Hipertrofia, Abdomen, Emagrecimento, Mobilidade).
@@ -243,6 +244,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
