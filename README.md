@@ -237,6 +237,16 @@ Gerenciar Treino |||
       - 4.1. Acessar tela "Notificações" >>
       - 4.2. Sistema exibe mensagens
 
+- Concorrência (|||): As tarefas podem ser executadas em qualquer ordem.
+
+- Ativação (>>): A tarefa 2 só pode ser iniciada após a tarefa 1 ser concluída.
+
+- Ativação com Informação ([]>>): Uma tarefa é iniciada após a conclusão de outra.
+
+- Escolha ([]): O usuário deve escolher apenas um caminho (um ou outro).
+
+- Suspensão (|>): Uma tarefa pode ser interrompida por outra.
+
 ## Modelo de tarefas
 
 ## Design
@@ -272,6 +282,7 @@ Gerenciar Treino |||
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
