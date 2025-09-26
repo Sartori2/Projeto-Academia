@@ -231,11 +231,11 @@ Gerenciar Treino |||
     - 2.2.1. Acessar tela "Avaliações" >>
     - 2.2.2. Sistema exibe gráficos e dados
 - 3. Gerenciar Pagamentos >>
-  - 3.1. Acessar tela "Faturas" >>
-  - 3.2. Sistema exibe status do pagamento
+      - 3.1. Acessar tela "Faturas" >>
+      - 3.2. Sistema exibe status do pagamento
 - 4. Verificar Notificações >>
-  - 4.1. Acessar tela "Notificações" >>
-  - 4.2. Sistema exibe mensagens
+      - 4.1. Acessar tela "Notificações" >>
+      - 4.2. Sistema exibe mensagens
 
 ## Modelo de tarefas
 
@@ -272,6 +272,7 @@ Gerenciar Treino |||
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
