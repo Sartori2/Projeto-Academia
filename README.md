@@ -165,6 +165,12 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
     - 1.4.2. Visualizar mensagens ou avisos da academia/personal.
     - 1.4.3. Receber notificações de pagamento.
 
+- Sequencial 1>2: Faça a tarefa 1, depois a tarefa 2
+
+- Paralelo 1+2: Faça a tarefa 1 ou a tarefa 2, em qualquer ordem.
+
+- Seleção 1/2: Faça a tarefa 1 ou a tarefa 2
+
 ## GOMS (Goals, Operators, Methods, Selection Rules)
 - GOAL 0: Gerenciar a rotina de treino e acompanhar o progresso.
     - GOAL 1: Acessar e seguir um treino.
@@ -282,6 +288,7 @@ Gerenciar Treino |||
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
