@@ -209,6 +209,34 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
         - OP. 4.A.1: Tocar na aba "Faturas".
         - OP. 4.A.2: Ler as informações de vencimento e status da fatura.
 
+## ConcurTaskTrees (CTT)
+
+Gerenciar Treino |||
+1. Seguir Treino do Dia >>
+  1.1. Acessar tela de treinos
+  1.2. Sistema exibe blocos de treino
+  1.3. Selecionar bloco de treino []>>
+    1.4. Sistema exibe exercícios do treino >>
+        1.5. Realizar Exercício |> 
+          1.5.1. Executar o exercício físico
+          1.5.2. Pausar para registrar carga
+            1.5.2.1. Inserir peso e repetições >>
+            1.5.2.2. Sistema salva o progresso
+2. Gerenciar Progresso []
+  2.1. Registrar Carga Manualmente >>
+    2.1.1. Acessar tela "Pr. Cargas" >>
+    2.1.2. Preencher dados do exercício >>
+    2.1.3. Sistema salva o registro
+  2.2. Consultar Histórico >>
+    2.2.1. Acessar tela "Avaliações" >>
+    2.2.2. Sistema exibe gráficos e dados
+3. Gerenciar Pagamentos >>
+  3.1. Acessar tela "Faturas" >>
+  3.2. Sistema exibe status do pagamento
+4. Verificar Notificações >>
+  4.1. Acessar tela "Notificações" >>
+  4.2. Sistema exibe mensagens
+
 ## Modelo de tarefas
 
 ## Design
@@ -244,6 +272,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
