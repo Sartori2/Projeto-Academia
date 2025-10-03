@@ -142,6 +142,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 
 ## Análise Hierárquica de Tarefas
 ![MapaHTA](MapaHTA.png)
+![TabelaHTA](tabela hta.png)
 - 1.1. Acessar o Treino do Dia (Abas: Treinos)
     - 1.1.1. Acessar a aba "Treinos".
     - 1.1.2. Visualizar os blocos de treino (Hipertrofia, Abdomen, Emagrecimento, Mobilidade).
@@ -288,6 +289,7 @@ Gerenciar Treino |||
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
