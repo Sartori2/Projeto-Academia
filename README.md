@@ -245,7 +245,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 ![Esquema addTreinoPersonal](PersonaAluno_vertreinos.jpg)
 
 # Persona Primária - Personal: Homepage
-![Esquema homepageAluno](PersonaPersonal_homepage.jpg)
+![PersonaPersonal_homepage](PersonaPersonal_homepage.jpg)
 
 # Persona Primária - Personal: Adicionar treino
 ![Esquema homepageAluno](PersonaPersonal_addtreino.jpg)
@@ -264,6 +264,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
