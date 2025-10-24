@@ -217,7 +217,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
         - OP. 4.A.2: Ler as informações de vencimento e status da fatura.
 
 ## ConcurTaskTrees (CTT)
-![MapaCTT](CTT.png)
+![CTT](CTT.png)
 
 - Concorrência (|||): As tarefas podem ser executadas em qualquer ordem.
 
@@ -264,6 +264,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
