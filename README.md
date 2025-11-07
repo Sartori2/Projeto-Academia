@@ -229,6 +229,9 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 
 - Suspensão (|>): Uma tarefa pode ser interrompida por outra.
 
+## Prototipação MoLIC
+![CTT](MoLICPersona1.jpg)
+
 ## Modelo de tarefas
 
 ## Design
@@ -264,6 +267,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
