@@ -233,7 +233,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 
 ## Persona 1 - Realizar um treino
 
-![CTT](MoLICPersona1.jpg)
+![CTT](molicPersona1.jpg)
 
 ## Modelo de tarefas
 
@@ -270,6 +270,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
