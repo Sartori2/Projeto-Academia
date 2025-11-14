@@ -264,7 +264,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística: [Baixar Avaliação Heurística](AvaliacaoHeuristica.doc)
-
+https://www.figma.com/design/FwiTw9otc3K9h4F9iMvAYH/Projeto-App?node-id=0-1&p=f&t=RS0kwKg4zl6PVVqO-0
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
 
@@ -273,6 +273,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
