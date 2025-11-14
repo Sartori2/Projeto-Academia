@@ -235,6 +235,9 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 
 ![CTT](molicPersona1.jpg)
 
+## Persona 2 - Adicionar um treino para o aluno
+![CTT](molicPersona2.jpg)
+
 ## Modelo de tarefas
 
 ## Design
@@ -270,6 +273,7 @@ Nosso aplicativo visa otimizar a gestão de treinos e a interação entre o alun
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
